@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Charles Bonoan",
 	"description": "Journey of learning backend!",
+  "keywords": ["practice", "freeCodeCamp", "wow"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
