@@ -3,6 +3,8 @@
 	"author": "Charles Bonoan",
 	"description": "Journey of learning backend!",
   "keywords": ["practice", "freecodecamp", "wow"],
+  "license": "MIT",
+  "version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
